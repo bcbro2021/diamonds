@@ -1,0 +1,2 @@
+# diamonds
+a javascript game
